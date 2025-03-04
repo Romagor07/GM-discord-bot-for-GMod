@@ -1,3 +1,6 @@
+# Инструкция / Instruction
+[Русский](https://github.com/Romagor07/GM-discord-bot-for-GMod#%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9)
+[English](https://github.com/Romagor07/GM-discord-bot-for-GMod/blob/main/Readme.md#english)
 # Русский:
 Это мой собственный проект по реализации одной из самых главных и нужных вещей для серверов GMod
 Бот который создаст двухстороннее общение между людьми на сервере и людьми в дискорде (ТОЛЬКО ЧАТ)
