@@ -10,7 +10,7 @@
 # Что же нужно для его работы:
 
 - Сервер Garry's Mod
-- GWSockets: https://github.com/FredyH/GWSockets
+- GWSockets: ```https://github.com/FredyH/GWSockets```
 - Python и библиотеки
 
 # Как все настроить:
