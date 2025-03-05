@@ -5,12 +5,12 @@
 Это мой собственный проект по реализации одной из самых главных и нужных вещей для серверов GMod
 Бот который создаст двухстороннее общение между людьми на сервере и людьми в дискорде (ТОЛЬКО ЧАТ)
 
-# Что же входит в этого бота:
+## Что же входит в этого бота:
 
 - Двустороннее общение между Discord и Garry's Mod
 - Админ панель для управления сервером с базовыми командами (бан, кик, мут и т.д.)
 
-# Что же нужно для его работы:
+## Что же нужно для его работы:
 
 - Сервер Garry's Mod
 - [GWSockets](https://github.com/FredyH/GWSockets)
@@ -57,12 +57,12 @@
 This is my own project to implement one of the most important and necessary things for GMod servers
 A bot that will create two-way communication between people on the server and people in Discord (CHAT ONLY)
 
-# What is included in this bot:
+## What is included in this bot:
 
 - Two-way communication between Discord and Garry's Mod
 - Admin panel for managing the server with basic commands (ban, kick, mute, etc.)
 
-# What is needed for its operation:
+## What is needed for its operation:
 
 - Garry's Mod server
 - [GWSockets](https://github.com/FredyH/GWSockets)
