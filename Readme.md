@@ -66,6 +66,7 @@ A bot that will create two-way communication between people on the server and pe
 
 - Garry's Mod server
 - [GWSockets](https://github.com/FredyH/GWSockets)
+- [ULX](https://steamcommunity.com/sharedfiles/filedetails/?l=russian&id=557962280)
 - Python and libraries
 
 # How to set everything up:
