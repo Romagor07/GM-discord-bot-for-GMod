@@ -1,3 +1,7 @@
+# Запрещенно использование команде Vodka Project
+
+---
+
 # Инструкция / Instruction
 - [Русский](https://github.com/Romagor07/GM-discord-bot-for-GMod#%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9)
 - [English](https://github.com/Romagor07/GM-discord-bot-for-GMod?tab=readme-ov-file#english)
